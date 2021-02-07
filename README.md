@@ -1,1 +1,1 @@
-# git_callab_is601
+# IS 601 Mini Project
